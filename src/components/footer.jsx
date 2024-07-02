@@ -16,7 +16,7 @@ const Footer = () => {
       <div className="text-customLightBlue flex flex-col items-center space-y-2 ">
         <p className="hover:text-customTeal">Designed by Brittany Chiang</p>
         <p className="hover:text-customTeal">Built by Rishabh Srivastava</p>
-        <a className="hover:text-customTeal" href="https://github.com/DarkPhoenix1604/portfolio_v2"><FaCodeFork /></a>
+        <a className="hover:text-customTeal" href="https://github.com/RishabhSri17/portfolio-v1"><FaCodeFork /></a>
 
       </div>
 
