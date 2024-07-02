@@ -41,7 +41,7 @@ const Experience = () => {
       <div className="flex items-center py-4 text-2xl space-x-3">
         <span className="space-mono-regular text-customTeal ">02.</span>
         <div className="roboto-regular font-bold text-customLightBlue">Positions of Responsibility</div>
-        <div className="w-[290px]"><hr /></div>
+        <div className="w-[100px]"><hr /></div>
       </div>
 
       <div className='flex flex-row space-x-8 text-left'>

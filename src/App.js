@@ -15,7 +15,7 @@ import LeftBar from "./components/leftbar";
 function App() {
   return (
     <Router>
-      <div className="App min-h-screen bg-customDarkBlue flex flex-col">
+      <div className="App w-full min-h-screen bg-customDarkBlue flex flex-col">
         <Navbar />
         <div className="flex flex-1 flex-row">
           <div className="hidden md:block md:w-[20%]">
