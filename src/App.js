@@ -21,7 +21,7 @@ function App() {
           <div className="hidden md:block md:w-[20%]">
             <LeftBar />
           </div>
-          <div className="w-full md:w-[60%] mx-5 flex flex-col flex-1 space-y-32">
+          <div className="w-full my-4 py-4 mx-auto md:w-[60%] flex flex-col flex-1 space-y-32">
             <div id="home" className="flex-1">
               <Home />
             </div>

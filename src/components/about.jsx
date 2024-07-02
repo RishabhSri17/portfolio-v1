@@ -4,7 +4,7 @@ import { MdDoubleArrow } from "react-icons/md";
 
 const About = () => {
   return (
-    <div className="w-full mt-8 items-center flex flex-col space-y-10 md:flex-row md:space-x-4">
+    <div className="w-full mx-auto mt-8 items-center flex flex-col space-y-10 md:flex-row md:space-x-4">
       <div className="flex flex-col w-[80%] md:w-[70%] px-7 md:px-3 py-7 space-y-4 text-left ">
         <div className="flex items-center text-2xl space-x-3">
           <div className="space-mono-regular text-customTeal ">01. </div><div className="roboto-regular font-bold text-customLightBlue">About Me</div><div className="w-[290px]"><hr /></div>
